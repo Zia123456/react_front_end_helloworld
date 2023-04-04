@@ -120,7 +120,7 @@ npm test
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Zia123456/react_front_end_helloworld/issues/1).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
